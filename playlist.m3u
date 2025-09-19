@@ -6,7 +6,7 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000106/1024.m3u8
 
 #EXTINF:-1 tvg-id="CNNIndonesia.id" tvg-name="CNN Indonesia" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/eb/CNN_Indonesia.svg/revision/latest/scale-to-width-down/250?cb=20160314101559" group-title="Channel Vision+", CNN Indonesia
 http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
-#https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w987255908_b384000_sleng.m3u8
+
  
 #EXTINF:-1 tvg-id="GTV.id" tvg-name="GTV" tvg-logo="https://www.visionplus.id/images/repository/447/353447-SNAPSHOT-l.png" group-title="Channel Vision+", GTV
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000113/1024.m3u8
