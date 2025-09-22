@@ -140,11 +140,17 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000031/1024.m3u8
 #EXTINF:-1 tvg-id="Test" tvg-name="Test" tvg-logo="https://www.visionplus.id/images/repository/272/468272-SNAPSHOT-m.png" group-title="News", Arirang
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000034/1024.m3u8
 #EXTINF:-1 tvg-id="Test" tvg-name="Test" tvg-logo="https://www.visionplus.id/images/repository/272/468272-SNAPSHOT-m.png" group-title="Knowledge", CGTN DOCUMENTARY
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000035/1024.m3u8
+https://english-livebkali.cgtn.com/live/doccgtn_1.m3u8
+
 #EXTINF:-1 tvg-id="Test" tvg-name="Test" tvg-logo="https://www.visionplus.id/images/repository/272/468272-SNAPSHOT-m.png" group-title="News", FOX NEWS
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000038/1024.m3u8
+
+#EXTINF:-1 tvg-id="Press.Tv" tvg-name="Press.Tv" tvg-logo="#" group-title="News", Press TV
+https://live.presstv.ir/hls/presstv_5_482/index.m3u8
+
 #EXTINF:-1 tvg-id="Test" tvg-name="Test" tvg-logo="https://www.visionplus.id/images/repository/272/468272-SNAPSHOT-m.png" group-title="News",CGTN
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000039/1024.m3u8
+https://english-livebkali.cgtn.com/live/encgtn_1.m3u8
+
 #EXTINF:-1 tvg-id="Test" tvg-name="Test" tvg-logo="https://www.visionplus.id/images/repository/272/468272-SNAPSHOT-m.png" group-title="Entertainment", TV MACCAU
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000040/1024.m3u8
 #EXTINF:-1 tvg-id="Test" tvg-name="Test" tvg-logo="https://www.visionplus.id/images/repository/272/468272-SNAPSHOT-m.png" group-title="Entertainment", BLANK
@@ -774,11 +780,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h143/index2.m3u8?app_type=web&amp;user
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/97.0.4692.99 Safari/537.36
 http://op-group1-swiftservesd-1.dens.tv/s/s19/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=CCTV-4
- 
-#EXTINF:0 group-title="Entertainment" tvg-logo="https://www.dens.tv/images/channel-logo/16.jpg",CGTN Documentary
-#EXTVLCOPT:http-referrer=http://www.dens.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/97.0.4692.99 Safari/537.36
-http://op-group1-swiftservesd-1.dens.tv/s/s20/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=CGTN_Documentary
+
  
 #EXTINF:0 group-title="Entertainment" tvg-logo="https://www.dens.tv/images/channel-logo/61.jpg",CNA
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
