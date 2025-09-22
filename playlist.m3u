@@ -7,7 +7,12 @@ http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="MagnaTV" tvg-name="MagnaTV" group-title="Indonesia" tvg-logo="https://iptvsystem.my.id/img/magna.png",Magna TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
- 
+
+#EXTINF:-1 tvg-id="Metro TV" tvg-name="Metro TV" group-title="Indonesia" tvg-logo="https://iptvsystem.my.id/img/metro.png",Metro TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+https://op-group1-swiftservehd-1.dens.tv/h/h12/02.m3u8
+
+
 #EXTINF:-1 tvg-id="GTV" tvg-name="GTV" tvg-logo="https://www.visionplus.id/images/repository/447/353447-SNAPSHOT-l.png" group-title="Indonesia", GTV
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000113/1024.m3u8
  
